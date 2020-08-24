@@ -53,6 +53,3 @@ Thanks for taking out your time! :heart:
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://github.com/heitorsampaio/Personality-Classification-Based-on-Twitter-Data)<p align="left">
     <img width="200" height="200" src="Images/twitter.webp">
 </p>
-
-# Classifying Personality Of A Person Based On His Twitter Data
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
