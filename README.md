@@ -1,3 +1,4 @@
+
 <p align="left">
     <img width="200" height="200" src="Images/twitter.webp">
 </p>
@@ -20,8 +21,14 @@ In Myer's Briggs Type indicator Classification we have 16 types of personality w
 ## :rocket: Usage :
 
 1. First step is to run the requirement.txt file to install all the libraries and dependencies.
-1. Run pyGen.py first to generate your naive bayes classifier models for all 4 different classes. It will generate few scores which will give the training data size and the features used while training the model.
-1. Run pyPredict(use your own Twitter keys) and enter the username you want to predict.   
+1. Run train.py first to generate your naive bayes classifier models for all 4 different classes. It will generate few scores which will give the training data size and the features used while training the model.
+1. Run predict.py(use your own Twitter keys) and enter the username you want to predict.   
+
+## :star: PoC :
+![](https://carbon.now.sh/08ada67a-4d14-410c-97e8-96d6af30c6a8 =400x400)
+
+![](https://carbon.now.sh/9eaa6bd3-48bc-4357-b4c5-86f22a4eee58 =400x400)
+
 
 ## :palm_tree: Contribution : 
 
@@ -50,6 +57,4 @@ In Myer's Briggs Type indicator Classification we have 16 types of personality w
 * Want to ask any question about this project [us](https://github.com/heitorsampaio/Personality-Classification-Based-on-Twitter-Data) you can simply create an issue. we will reply to your questions there.
 
 Thanks for taking out your time! :heart:
-[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://github.com/heitorsampaio/Personality-Classification-Based-on-Twitter-Data)<p align="left">
-    <img width="200" height="200" src="Images/twitter.webp">
-</p>
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://github.com/heitorsampaio/Personality-Classification-Based-on-Twitter-Data)
