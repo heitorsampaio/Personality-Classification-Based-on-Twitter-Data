@@ -25,9 +25,9 @@ In Myer's Briggs Type indicator Classification we have 16 types of personality w
 1. Run predict.py(use your own Twitter keys) and enter the username you want to predict.   
 
 ## :star: PoC :
-![](https://imgur.com/Mk5VLlt =400x400)
+![](https://i.imgur.com/Mk5VLlt.png =400x400)
 
-![](https://imgur.com/a/JrXeDaZ =400x400)
+![](https://i.imgur.com/KDCvXNM.png =400x400)
 
 
 ## :palm_tree: Contribution : 
